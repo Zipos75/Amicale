@@ -1,0 +1,6 @@
+{
+  "name": "Amicale to score",
+  "description": "Application développée par Tanguy Lauwers pour aider, en tant que parent, les arbitres et coachs de l'Amicale d'Anderlecht. Feuille de match et chronomètre hockey sur gazon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
